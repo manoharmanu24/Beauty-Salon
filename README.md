@@ -9,7 +9,7 @@ This is a web-based application developed for health-related based website in In
 **Project Link** - https://ambitious-ground-03280f700.3.azurestaticapps.net
 
 
-**Project demo video link** - 
+**Project demo video link** - https://youtu.be/kXi1nRGEj48
 
 ## Azure technologies used for the project
 
